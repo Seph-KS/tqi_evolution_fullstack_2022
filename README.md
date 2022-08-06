@@ -2,7 +2,7 @@
 
 Uma livraria precisa criar seu controle de compra, vendas e estoque de livros. Para isso, necessitamos desenvolver as seguintes funcionalidades:
 
-## Cadastroo de livro:
+## Cadastro de livro:
   No cadastro do livro devemos ter as seguintes informações: Título, Autor, Editora, Imagem do livro e ano de publicação;
   
  ## Compra de livros:
