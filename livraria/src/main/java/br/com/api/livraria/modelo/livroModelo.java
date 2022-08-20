@@ -18,6 +18,6 @@ public class livroModelo {
     private String autor;
     private String editora;
     private String ano;
-    private double valor;
-    private int quantidade;
+    private Float  valor;
+    private int    quantidade;
 }
